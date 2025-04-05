@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------------------- */
-/*                                     Escreva uma consulta de agregação no MongoDB para calcular o total de vendas na coleção "vendas", considerando o campo "valor" em cada documento.                                     */
+/*                                     01                                     */
 /* -------------------------------------------------------------------------- */
 db.vendas.aggregate([
   {
